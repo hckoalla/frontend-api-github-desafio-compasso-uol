@@ -1,0 +1,9 @@
+button.btn {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.modal-body {
+    max-height: 700px;
+    overflow : auto !important;
+}
